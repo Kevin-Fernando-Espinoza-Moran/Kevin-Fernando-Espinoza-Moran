@@ -15,8 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ===============================================================================================================================================================================================================================================================================
+## Hola 👋
+
+<!--
+**Kevin-Fernando-Espinoza-Moran/Kevin-Fernando-Espinoza-Moran** es un repositorio ✨ _especial_ ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+
+A continuación, se ofrecen algunas ideas para comenzar:
+
+- 🔭 Actualmente estoy trabajando en Desarrollo Web
+- 🌱 Actualmente estoy aprendiendo...
+- 👯 Busco colaborar en...
+- 🤔 Busco ayuda con...
+- 💬 Pregúntame sobre...
+- 📫 Cómo contactarme: ...
+- 😄 Pronombres: ...
+- ⚡ Dato curioso: ...
+-->
+===============================================================================================================================================================================================================================================================================
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![portada](https://github.com/user-attachments/assets/0e610129-9ccb-4b93-96d5-1d160d642fd5)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
